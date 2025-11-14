@@ -1,4 +1,8 @@
 # Mood-App-ios
+Developed an iOS app to track moods using emoji-based and text journal inputs.
+Integrated sentiment analysis model to classify the emotional tone of entries.
+Added a recommendation system suggesting relaxation activities based on detected moods.
+Designed responsive UI with dark/light themes and SwiftUI animations.
 <img width="679" alt="Screenshot 2024-10-17 at 10 47 05 AM" src="https://github.com/user-attachments/assets/5acda47e-8fb5-455d-808e-9f0f859480ab">
 <img width="679" alt="Screenshot 2024-10-17 at 10 47 13 AM" src="https://github.com/user-attachments/assets/387bced4-0c5e-4061-b124-2bae71f12b4d">
 <img width="679" alt="Screenshot 2024-10-17 at 10 47 20 AM" src="https://github.com/user-attachments/assets/277f2108-8662-47b5-a124-f01902266e8e">
